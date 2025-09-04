@@ -213,3 +213,6 @@
 @@||edf.eset.com^
 @@||cl4.apple.com^
 @@||x1.c.lencr.org^
+@@||gstatic.com^
+@@||p127-sharedstreams.icloud.com^
+@@||configuration.apple.com^

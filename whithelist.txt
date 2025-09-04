@@ -149,7 +149,6 @@
 @@||gigsfishandchips.com^
 @@||github.com^
 @@||goodreads.com^
-@@||google.com^
 @@||gouv.fr^
 @@||graduationsource.com^
 @@||gratumstudium.com^

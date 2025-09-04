@@ -453,3 +453,5 @@
 @@||eps-barletta.github.io/ClimbTrack/index.html^
 @@||eps.ovh/zenos/obs.html^
 @@||eps.ovh/zenos/index.html#homepage^
+@@||to-teach.ai^
+@@||africanfossils.org^

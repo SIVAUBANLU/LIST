@@ -216,3 +216,13 @@
 @@||gstatic.com^
 @@||p127-sharedstreams.icloud.com^
 @@||configuration.apple.com^
+@@||s-0005.s-msedge.net^
+@@||s-0006.s-msedge.net^
+@@||vauban-resa.ianord.fr^
+@@||s-part-0017.t-0009.t-msedge.net^
+@@||dual-spo-0005.spo-msedge.net^
+@@||mask-h2.icloud.com^
+@@||b-0004.b-msedge.net^
+@@||mask.icloud.com^
+@@||b-0039.b-msedge.net^
+@@||secureweb.restena.lu^

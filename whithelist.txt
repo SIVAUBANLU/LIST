@@ -446,11 +446,6 @@
 @@||xe.com^
 @@||zdf.de^
 @@||zeit.de^
-@@||eps-barletta.github.io/RunStats/index.html^
-@@||eps-barletta.github.io/chrono-Intervalles-EPS/^
-@@||eps-barletta.github.io/Chrono-Minuteur-/index.html^
-@@||eps-barletta.github.io/ClimbTrack/index.html^
-@@||eps.ovh/zenos/obs.html^
-@@||eps.ovh/zenos/index.html#homepage^
+@@||eps-barletta.github.io^
 @@||to-teach.ai^
 @@||africanfossils.org^

@@ -264,3 +264,6 @@
 @@||caldav.icloud.com^
 @@||p53-contacts.icloud.com^
 @@||init-kt.apple.com^
+@@||p53-caldav.icloud.com^
+@@||p53-escrowproxy.icloud.com^
+@@||s-part-0014.t-0009.fb-t-msedge.net^

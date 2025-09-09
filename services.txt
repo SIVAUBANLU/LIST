@@ -241,3 +241,9 @@
 @@||amd-infra.itunes.apple.com^
 @@||static.axept.io^
 @@||gsa.apple.com^
+@@||weather-data.apple.com^
+@@||cdn.matomo.cloud^
+@@||static.addtoany.com^
+@@||cl2.apple.com^
+@@||sas.pcms.apple.com^
+@@||device-config.pcms.apple.com^

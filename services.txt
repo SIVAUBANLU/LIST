@@ -226,3 +226,15 @@
 @@||mask.icloud.com^
 @@||b-0039.b-msedge.net^
 @@||secureweb.restena.lu^
+@@||gs-loc.apple.com^
+@@||p55-acsegateway.icloud.com^
+@@||d1bdn6zebusvfo.cloudfront.net^
+@@||dt0jehtfnux4p.cloudfront.net^
+@@||egion1.google-analytics.com^
+@@||snplow.net^
+@@||app-analytics-services.com^
+@@||googleads.g.doubleclick.net^
+@@||collector-pxvlufj7uv.perimeterx.net^
+@@||ssl.google-analytics.com^
+@@||com-quizlet-prod1.collector.snplow.net^
+@@||perimeterx.net^

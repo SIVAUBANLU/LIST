@@ -298,3 +298,5 @@
 @@||assets-mercury.mzstatic.com^
 @@||bookkeeper.itunes.apple.com^
 @@||apple-relay.cloudflare.com^
+@@||is1-ssl.mzstatic.com^
+@@||nlhfd1.icloud-content.com^

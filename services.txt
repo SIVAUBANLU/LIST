@@ -238,3 +238,5 @@
 @@||ssl.google-analytics.com^
 @@||com-quizlet-prod1.collector.snplow.net^
 @@||perimeterx.net^
+@@||amd-infra.itunes.apple.com^
+@@||static.axept.io^

@@ -286,3 +286,15 @@
 @@||sas-ew1-pcms.apple.com^
 @@||itunes.apple.com^
 @@||amp-api.music.apple.com^
+@@||calendars.icloud.com^
+@@||p45-escrowproxy.icloud.com^
+@@||p45-contacts.icloud.com^
+@@||p137-sharedstreams.icloud.com^
+@@||ma-albert-prod.apple.com^
+@@||p45-caldav.icloud.com^
+@@||recaptcha.net^
+@@||p45-acsegateway.icloud.com^
+@@||p45-quota.icloud.com^
+@@||assets-mercury.mzstatic.com^
+@@||bookkeeper.itunes.apple.com^
+@@||apple-relay.cloudflare.com^

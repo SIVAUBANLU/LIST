@@ -247,3 +247,4 @@
 @@||cl2.apple.com^
 @@||sas.pcms.apple.com^
 @@||device-config.pcms.apple.com^
+@@||gsa-ws.apple.com^

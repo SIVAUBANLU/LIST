@@ -457,3 +457,4 @@
 @@||github.io^
 @@||quizlet.com^
 @@||logbook.education^
+@@||duolingo.com^

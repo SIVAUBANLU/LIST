@@ -302,3 +302,7 @@
 @@||nlhfd1.icloud-content.com^
 @@||apple.com^
 @@||icloud.com^
+@@||is4-ssl.mzstatic.com^
+@@||is2-ssl.mzstatic.com^
+@@||sdk.iad-05.braze.com^
+@@||browser-intake-datadoghq.com^

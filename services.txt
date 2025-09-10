@@ -306,3 +306,10 @@
 @@||is2-ssl.mzstatic.com^
 @@||sdk.iad-05.braze.com^
 @@||browser-intake-datadoghq.com^
+@@||goodnotes-devops.com^
+@@||azurefd.net^
+@@||is5-ssl.mzstatic.com^
+@@||cloudfront.net^
+@@||index-education.com^
+@@||d1vq87e9lcf771.cloudfront.net^
+@@||cloudflare.com^

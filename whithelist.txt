@@ -458,3 +458,4 @@
 @@||quizlet.com^
 @@||logbook.education^
 @@||duolingo.com^
+@@||wordwall.net^

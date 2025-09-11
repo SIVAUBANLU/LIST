@@ -460,3 +460,6 @@
 @@||duolingo.com^
 @@||wordwall.net^
 @@||genially.com^
+@@||pragmasoft.be^
+@@||toileval.free.fr^
+

@@ -322,3 +322,6 @@
 @@||goodnotescloud.com^
 @@||notability.com^
 @@||ohttp-relay1.fastly-edge.com^
+@@||belin.education^
+@@||edulib.fr^
+@@||s-0005.dual-s-dc-msedge.net^

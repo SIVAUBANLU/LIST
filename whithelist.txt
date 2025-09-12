@@ -472,3 +472,4 @@
 @@||motoufo.fr^
 @@||classe-numerique.fr^
 @@||rallye-lecture.fr^
+@@||libmol.org^

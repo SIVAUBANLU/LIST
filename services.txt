@@ -331,3 +331,8 @@
 @@||bdgr1t-register.appsflyersdk.com^
 @@||quizeo.com^
 @@||libmanuels.fr^
+@@||api.capgo.app^
+@@||wac-msedge.net^
+@@||mediation.unity3d.com^
+@@||educadhoc.fr^
+@@||logicieleducqtif.fr^

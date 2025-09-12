@@ -469,3 +469,6 @@
 @@||monecole.fr^
 @@||qwantjunior.com^
 @@||matheros.fr^
+@@||motoufo.fr^
+@@||classe-numerique.fr^
+@@||rallye-lecture.fr^

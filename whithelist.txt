@@ -465,3 +465,6 @@
 @@||ladigitale.dev^
 @@||hatier-clic.fr^
 @@||recherche-expertise.asnr.fr^
+@@||lalilo.com^
+@@||monecole.fr^
+@@||qwantjunior.com^

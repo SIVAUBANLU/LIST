@@ -325,3 +325,9 @@
 @@||belin.education^
 @@||edulib.fr^
 @@||s-0005.dual-s-dc-msedge.net^
+@@||edupole.net^
+@@||mzstatic.com^
+@@||s3.eu-west-3.amazonaws.com^
+@@||bdgr1t-register.appsflyersdk.com^
+@@||quizeo.com^
+@@||libmanuels.fr^

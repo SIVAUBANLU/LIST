@@ -336,3 +336,5 @@
 @@||mediation.unity3d.com^
 @@||educadhoc.fr^
 @@||logicieleducqtif.fr^
+@@||padlet.workers.dev^
+@@||padlet.help^

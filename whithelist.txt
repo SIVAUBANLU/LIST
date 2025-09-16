@@ -473,5 +473,4 @@
 @@||classe-numerique.fr^
 @@||rallye-lecture.fr^
 @@||libmol.org^
-@@||leo.org^
-@@||pons.com^
+@@||libmol.org^

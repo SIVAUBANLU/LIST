@@ -338,3 +338,5 @@
 @@||logicieleducqtif.fr^
 @@||padlet.workers.dev^
 @@||padlet.help^
+@@||goodnotes.com^
+@@||accounts.google.com^

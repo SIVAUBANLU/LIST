@@ -181,7 +181,6 @@
 @@||jeunes.cnes.fr^
 @@||joint-research-centre.ec.europa.eu^
 @@||junior.universalis-edu.com^
-@@||kahoot.it^
 @@||kids.britannica.com^
 @@||kids.frontiersin.org^
 @@||kids.nationalgeographic.com^

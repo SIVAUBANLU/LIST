@@ -340,3 +340,6 @@
 @@||padlet.help^
 @@||goodnotes.com^
 @@||accounts.google.com^
+@@||kahoot.it^
+@@||kahoot-files.s3.amazonaws.com^
+@@||canva-apps.com^

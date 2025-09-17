@@ -343,3 +343,4 @@
 @@||kahoot.it^
 @@||kahoot-files.s3.amazonaws.com^
 @@||canva-apps.com^
+@@||maesmanuels.fr^

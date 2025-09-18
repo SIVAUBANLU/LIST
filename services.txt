@@ -353,3 +353,6 @@
 @@||app-measurement.com^
 @@||googletagmanager.com^
 @@||google-analytics.com^
+@@||hachette-education.com^
+@@||fastly.net^
+@@||clients3.google.com^

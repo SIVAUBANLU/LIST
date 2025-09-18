@@ -349,3 +349,7 @@
 @@||manuel-numerique.com^
 @@||clarity.ms^
 @@||tabuleo.fr^
+@@||hachette-livre.fr^
+@@||app-measurement.com^
+@@||googletagmanager.com^
+@@||google-analytics.com^

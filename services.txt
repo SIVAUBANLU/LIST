@@ -356,3 +356,5 @@
 @@||hachette-education.com^
 @@||fastly.net^
 @@||clients3.google.com^
+@@||appsflyersdk.com^
+@@||sr-client-cfg.amplitude.com^

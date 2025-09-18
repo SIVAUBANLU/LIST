@@ -344,3 +344,7 @@
 @@||kahoot-files.s3.amazonaws.com^
 @@||canva-apps.com^
 @@||maesmanuels.fr^
+@@||duolingo.com^
+@@||amazonaws.com^
+@@||manuel-numerique.com^
+@@||clarity.ms^

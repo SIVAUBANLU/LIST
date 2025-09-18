@@ -348,3 +348,4 @@
 @@||amazonaws.com^
 @@||manuel-numerique.com^
 @@||clarity.ms^
+@@||tabuleo.fr^

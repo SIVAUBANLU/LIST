@@ -490,3 +490,5 @@
 @@||comixtrip.fr^
 @@||dbimg.eu^
 @@||cned.fr^
+@@||goodnotes.email^
+@@||sprig.com^

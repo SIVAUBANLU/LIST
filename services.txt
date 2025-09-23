@@ -358,3 +358,4 @@
 @@||clients3.google.com^
 @@||appsflyersdk.com^
 @@||sr-client-cfg.amplitude.com^
+@@||aticdn.net^

@@ -495,3 +495,10 @@
 @@||keygen.sh^
 @@||bugsnag.com^
 @@||histoires-de-sciences.over-blog.fr^
+@@||klett-sprachen.de^
+@@||sprachcaffe.com^
+@@||webclasse.wordpress.com^
+@@||blinde-kuh.de^
+@@||kika.de^
+@@||mda-brest.fr^
+@@||aefe.fr^

@@ -505,3 +505,5 @@
 @@||france.fr^
 @@||abcya.com^
 @@||europa.eu^
+@@||umontpellier.fr^
+@@||ac-nice.fr^

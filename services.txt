@@ -360,3 +360,8 @@
 @@||sr-client-cfg.amplitude.com^
 @@||aticdn.net^
 @@||pa-cd.com^
+@@||telemetrydeck.com^
+@@||launchdarkly.com^
+@@||ocsp.godaddy.com^
+@@||init.supersonicads.com^
+@@||sentry.io^

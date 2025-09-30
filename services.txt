@@ -366,5 +366,7 @@
 @@||init.supersonicads.com^
 @@||sentry.io^
 @@||plantnet.org^
+@@||px-cdn.net^
+@@||px-cloud.net^
 
 

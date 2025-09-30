@@ -371,4 +371,7 @@
 @@||crcldu.com^
 @@||px-client.net^
 @@||sectigo.com^
-
+@@||privo.com^
+@@||ketchcdn.com^
+@@||prismic.io^
+@@||lh3.googleusercontent.com^

@@ -510,3 +510,4 @@
 @@||ac-nice.fr^
 @@||hatier-clic.fr^
 @@||edition.cnn.com^
+@@||gapminder.org^

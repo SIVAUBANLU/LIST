@@ -509,3 +509,4 @@
 @@||ac-nice.fr^
 @@||ac-nice.fr^
 @@||hatier-clic.fr^
+@@||edition.cnn.com^

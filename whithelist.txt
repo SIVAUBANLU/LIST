@@ -518,3 +518,4 @@
 @@||jeudeloie-81180.firebaseapp.com^
 @@||firestore.googleapis.com^
 @@||eu-api.friendlycaptcha.eu^
+@@||fondation-lamap.org^

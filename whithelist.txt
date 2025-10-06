@@ -512,3 +512,8 @@
 @@||edition.cnn.com^
 @@||gapminder.org^
 @@||etmaintenant-lefestival.fr^
+@@||cdn.tailwindcss.com^
+@@||gstatic.com^
+@@||dn.jsdelivr.net^
+@@||jeudeloie-81180.firebaseapp.com^
+@@||firestore.googleapis.com^

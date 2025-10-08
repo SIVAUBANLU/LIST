@@ -521,3 +521,4 @@
 @@||fondation-lamap.org^
 @@||education.lego.com^
 @@||firstlegoleague.org^
+@@||fr.wikipedia.org^

@@ -522,4 +522,5 @@
 @@||education.lego.com^
 @@||firstlegoleague.org^
 @@||fr.wikipedia.org^
-@@||https://www.bls.gov^
+@@||bls.gov^
+@@||world-geography-games.com^

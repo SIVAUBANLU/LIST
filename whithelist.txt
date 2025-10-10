@@ -522,6 +522,7 @@
 @@||education.lego.com^
 @@||firstlegoleague.org^
 @@||fr.wikipedia.org^
+@@||pedagogie.ac-nice.fr^
 @@||bls.gov^
 @@||world-geography-games.com^
 @@||w3.restena.lu^

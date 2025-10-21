@@ -530,4 +530,6 @@
 segu-geschichte.de/^
 @@||centenaire1418hautlimousin.jimdofree.com/^
 @@||ffpentathlon.fr/^
-@@||www.pexels.com/fr-fr^
+@@||pexels.com/fr-fr^
+@@||playhooky.fr^
+@@||connaissancedesenergies.org^

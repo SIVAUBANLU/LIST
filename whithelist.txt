@@ -539,3 +539,4 @@
 @@||helles-koepfchen.de^
 @@||svtanim.fr^
 @@||svt78.free.fr^
+@@||cdnjs.cloudflare.com^

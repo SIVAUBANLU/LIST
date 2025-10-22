@@ -537,3 +537,5 @@
 @@||logo.de^
 @@||kinder.wdr.de^
 @@||helles-koepfchen.de^
+@@||svtanim.fr^
+@@||svt78.free.fr^

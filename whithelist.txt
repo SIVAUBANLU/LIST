@@ -540,3 +540,4 @@
 @@||svtanim.fr^
 @@||svt78.free.fr^
 @@||cdnjs.cloudflare.com^
+@@||ims-na1.adobelogin.com^

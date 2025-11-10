@@ -541,3 +541,7 @@
 @@||svt78.free.fr^
 @@||cdnjs.cloudflare.com^
 @@||ims-na1.adobelogin.com^
+@@||astro.vision.free.fr^
+@@||ciel-et-univers.com^
+@@||steph.landeau.free.fr^
+@@||phet.colorado.edu^

@@ -375,3 +375,4 @@
 @@||ketchcdn.com^
 @@||prismic.io^
 @@||lh3.googleusercontent.com^
+@@||jsdelivr.net^

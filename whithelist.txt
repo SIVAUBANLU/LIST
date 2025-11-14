@@ -552,3 +552,4 @@
 @@||activityvillage.co.uk^
 @@||wavacity.com^
 @@||convertio.co^
+@@||gapminder.org^

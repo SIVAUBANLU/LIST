@@ -553,3 +553,4 @@
 @@||wavacity.com^
 @@||convertio.co^
 @@||gapminder.org^
+@@||edpuzzle.com^

@@ -554,3 +554,5 @@
 @@||convertio.co^
 @@||gapminder.org^
 @@||edpuzzle.com^
+@@||natgeokids.com^
+@@||kids.britannica.com^

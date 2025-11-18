@@ -376,3 +376,7 @@
 @@||prismic.io^
 @@||lh3.googleusercontent.com^
 @@||jsdelivr.net^
+@@||bootstrapcdn.com^
+@@||cookielaw.org^
+@@||jquery.com^
+@@||poool.fr^

@@ -556,3 +556,4 @@
 @@||edpuzzle.com^
 @@||natgeokids.com^
 @@||kids.britannica.com^
+@@||hachette.fr^

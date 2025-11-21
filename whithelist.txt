@@ -559,3 +559,8 @@
 @@||hachette.fr^
 @@||ireland.com^
 @@||sesamath.net^
+@@||natgeofe.com^
+@@||espncdn.com^
+@@||dcf.espn.com^
+@@||bamgrid.com^
+@@||newrelic.com^

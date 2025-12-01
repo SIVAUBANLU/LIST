@@ -567,3 +567,4 @@
 @@||afm-telethon.fr^
 @@||concours.castor-informatique.fr^
 @@||hg-ravenel.fr
+@@||anagrammeur.com^

@@ -569,3 +569,5 @@
 @@||hg-ravenel.fr
 @@||anagrammeur.com^
 @@||britannica.com^
+@@||openstreetmap.org^
+@@||mapswipe.org^

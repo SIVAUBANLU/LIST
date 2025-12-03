@@ -571,3 +571,4 @@
 @@||britannica.com^
 @@||openstreetmap.org^
 @@||mapswipe.org^
+@@||wooclap.com^

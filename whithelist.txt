@@ -575,3 +575,4 @@
 @@||quellehistoire.com^
 @@||onesignal.com^
 @@||amplitude.com^
+@@||polypad.amplify.com^

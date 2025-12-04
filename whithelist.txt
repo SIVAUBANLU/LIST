@@ -572,3 +572,6 @@
 @@||openstreetmap.org^
 @@||mapswipe.org^
 @@||wooclap.com^
+@@||quellehistoire.com^
+@@||onesignal.com^
+@@||amplitude.com^

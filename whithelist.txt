@@ -576,5 +576,3 @@
 @@||onesignal.com^
 @@||amplitude.com^
 @@||polypad.amplify.com^
-@@||g.igroutka.ru^
-@@||geometrydash.fr^

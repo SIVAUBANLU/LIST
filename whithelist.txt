@@ -590,3 +590,14 @@
 @@||christmas-channel.com^
 @@||tasks.hotosm.org^
 @@||collegephysiquechimie.fr^
+@@||publicdomainvectors.org^
+@@||openclipart.org^
+@@||freesvg.org^
+@@||svgrepo.com^
+@@||cooltext.com^
+@@||pixabay.com^
+@@||auboutdufil.com^
+@@||bensound.com^
+@@||mazegenerator.net^
+@@||micetf.fr^
+@@||desmoulins.fr^

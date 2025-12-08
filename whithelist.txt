@@ -588,3 +588,4 @@
 @@||geschichtewiki.wien.gv.at^
 @@||lexikon.zum.de^
 @@||christmas-channel.com^
+@@||tasks.hotosm.org^

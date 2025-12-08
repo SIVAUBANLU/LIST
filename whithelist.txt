@@ -576,3 +576,15 @@
 @@||onesignal.com^
 @@||amplitude.com^
 @@||polypad.amplify.com^
+@@||hatier-clic.fr^
+@@||t-online.de^
+@@||schmitz-nittenwilm.de^
+@@||wissenschaft.de^
+@@||vivat.de^
+@@||ndr.de^
+@@||museeprotestant.org^
+@@||atrium-hotel.de^
+@@||blick.ch^
+@@||geschichtewiki.wien.gv.at^
+@@||lexikon.zum.de^
+@@||christmas-channel.com^

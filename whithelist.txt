@@ -601,3 +601,7 @@
 @@||mazegenerator.net^
 @@||micetf.fr^
 @@||desmoulins.fr^
+@@||phyanim.sciences.univ-nantes.fr^
+@@||pccl.fr^
+@@||phet.colorado.edu^
+@@||learningapps.org^

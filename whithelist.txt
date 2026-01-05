@@ -616,3 +616,8 @@
 @@||mizou.com^
 @@||tacit.univ-rennes2.fr^
 @@||pedagogie.ac-toulouse.fr^
+@@||student.amplify.com^
+@@||classroom.amplify.com^
+@@||stemm.lu^
+@@||icrc.org^
+@@||sosmediterranee.org^

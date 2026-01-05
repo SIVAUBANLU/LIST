@@ -623,3 +623,5 @@
 @@||sosmediterranee.org^
 @@||timeforgeography.co.uk^
 @@||datashine.org.uk^
+@@||astro.vision.free.fr^
+@@||ciel-et-univers.com^

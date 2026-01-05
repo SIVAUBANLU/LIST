@@ -625,3 +625,4 @@
 @@||datashine.org.uk^
 @@||astro.vision.free.fr^
 @@||ciel-et-univers.com^
+@@||hatier-clic.fr

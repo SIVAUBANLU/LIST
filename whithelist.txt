@@ -616,8 +616,6 @@
 @@||mizou.com^
 @@||tacit.univ-rennes2.fr^
 @@||pedagogie.ac-toulouse.fr^
-@@||student.amplify.com^
-@@||classroom.amplify.com^
 @@||stemm.lu^
 @@||icrc.org^
 @@||sosmediterranee.org^
@@ -625,4 +623,7 @@
 @@||datashine.org.uk^
 @@||astro.vision.free.fr^
 @@||ciel-et-univers.com^
-@@||hatier-clic.fr
+@@||hatier-clic.fr^
+@@||intercom.io^
+@@||desmos.com^
+@@||amplify.com^

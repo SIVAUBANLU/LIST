@@ -627,3 +627,6 @@
 @@||intercom.io^
 @@||desmos.com^
 @@||amplify.com^
+@@||thingiverse.com^
+@@||grabcad.com^
+@@||excalidraw.com^

@@ -633,3 +633,5 @@
 @@||customer-wrxkh86v7ijvxiik.cloudflarestream.com^
 @@||wwf.fr^
 @@||theatre-classique.fr^
+@@||embed.cloudflarestream.com^
+@@||geschenke.de^

@@ -635,3 +635,4 @@
 @@||theatre-classique.fr^
 @@||embed.cloudflarestream.com^
 @@||geschenke.de^
+@@||app.Wooclap.com^

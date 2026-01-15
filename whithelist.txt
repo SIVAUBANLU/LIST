@@ -637,3 +637,5 @@
 @@||geschenke.de^
 @@||app.Wooclap.com^
 @@||visite-virtuelle.theatredescelestins.com^
+@@||lpb-bw.de
+@@||annefrank.org

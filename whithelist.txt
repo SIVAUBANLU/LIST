@@ -637,5 +637,8 @@
 @@||geschenke.de^
 @@||app.Wooclap.com^
 @@||visite-virtuelle.theatredescelestins.com^
-@@||lpb-bw.de
-@@||annefrank.org
+@@||lpb-bw.de^
+@@||annefrank.org^
+@@||theedadvocate.org^
+@@||math4children.com^
+@@||crimsonglobalacademy.school^

@@ -646,3 +646,4 @@
 @@||test-english.com^
 @@||english-4u.de^
 @@||wordwall.net^
+@@||digipad.app^

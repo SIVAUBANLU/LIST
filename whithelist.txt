@@ -648,3 +648,6 @@
 @@||wordwall.net^
 @@||digipad.app^
 @@||media.electre-ng.com^
+@@||www.foodzik.fr^
+@@||pedagogie.ac-orleans-tours.fr^
+@@||blog.newzik.com^

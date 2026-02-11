@@ -380,3 +380,4 @@
 @@||cookielaw.org^
 @@||jquery.com^
 @@||poool.fr^
+@@||trafficmanager.net

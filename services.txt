@@ -79,7 +79,6 @@
 @@||*.Microsoft^
 @@||vauban.lu^
 @@||vauban.local^
-@@||trafficmanager.net^
 @@||akamai.net^
 @@||gateway.icloud.com^
 @@||health.apple.com^

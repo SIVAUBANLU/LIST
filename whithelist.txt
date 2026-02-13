@@ -79,7 +79,6 @@
 @@||coopmaths.fr^
 @@||curieux.live^
 @@||cutt.ly^
-@@||d3hkroxry9hy72.cloudfront.net^
 @@||dailymail.co.uk^
 @@||deck.toys^
 @@||defi-escalad-as-vauban.glide.page^
@@ -101,7 +100,6 @@
 @@||e-interforum.com^
 @@||e6858.dscx.akamaiedge.net^
 @@||ec.europa.eu^
-@@||edclub.com^
 @@||editions-bordas.fr^
 @@||edpuzzle.com^
 @@||education.nationalgeographic.org^
@@ -216,7 +214,6 @@
 @@||liveworksheets.com^
 @@||llo.lu^
 @@||lod.lu^
-@@||logicieleducatif.fr^
 @@||londoneye.com^
 @@||londontopia.net^
 @@||londres.fr^
@@ -397,8 +394,6 @@
 @@||towerbridge.org.uk^
 @@||tube.reseau-canope.fr^
 @@||twinkl.lu^
-@@||typingclub.com^
-@@||typingclub.com^
 @@||un.org^
 @@||unicaen.fr^
 @@||unicef.fr^

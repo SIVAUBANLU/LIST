@@ -396,7 +396,6 @@
 @@||today.rtl.lu^
 @@||towerbridge.org.uk^
 @@||towerbridge.org.uk^
-@@||trinket.io^
 @@||tube.reseau-canope.fr^
 @@||twinkl.lu^
 @@||typingclub.com^
@@ -452,7 +451,6 @@
 @@||astronoo.com^
 @@||portaildelamode.com^
 @@||mesmanuels.fr^
-@@||github.io^
 @@||quizlet.com^
 @@||logbook.education^
 @@||duolingo.com^
@@ -624,7 +622,6 @@
 @@||astro.vision.free.fr^
 @@||ciel-et-univers.com^
 @@||hatier-clic.fr^
-@@||intercom.io^
 @@||desmos.com^
 @@||amplify.com^
 @@||thingiverse.com^

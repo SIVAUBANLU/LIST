@@ -147,7 +147,6 @@
 @@||genial.ly^
 @@||geogebra.org^
 @@||gigsfishandchips.com^
-@@||github.com^
 @@||goodreads.com^
 @@||gouv.fr^
 @@||graduationsource.com^

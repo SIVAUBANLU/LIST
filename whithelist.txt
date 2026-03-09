@@ -675,3 +675,4 @@
 @@||slf.ch^
 @@||kilianjornetfoundation.org^
 @@||swissinfo.ch^
+@@||pix.fr^

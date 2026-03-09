@@ -662,3 +662,16 @@
 @@||bbc.com^
 @@||lockee.fr^
 @@||menunature.com^
+@@||nationalgeographic.org^
+@@||nationalgeographic.com^
+@@||joint-research-centre.ec.europa.eu^
+@@||emergency.copernicus.eu^
+@@||forest-fire.emergency.copernicus.eu^
+@@||civil-protection-humanitarian-aid.ec.europa.eu^
+@@||un-glaciers.org^
+@@||nbcnews.com^
+@@||climate.copernicus.eu^
+@@||alpconv.org^
+@@||slf.ch^
+@@||kilianjornetfoundation.org^
+@@||swissinfo.ch^

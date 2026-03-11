@@ -678,3 +678,4 @@
 @@||pix.fr^
 @@||pix.org^
 @@||le-francais-efficace.fr^
+@@||afp.com/fr^

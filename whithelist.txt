@@ -686,3 +686,5 @@
 @@||masterclass.com^
 @@||acomeambiente.org^
 @@||museoauto.com^
+@@||login.france-ioi.org^
+@@||conours-alkindi.fr^

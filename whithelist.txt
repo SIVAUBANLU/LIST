@@ -690,3 +690,6 @@
 @@||conours-alkindi.fr^
 @@||multimaths.net^
 @@||eduroam.org^
+@@||eduroam.app^
+@@||eduroam.com^
+@@||eduroam.lu^

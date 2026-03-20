@@ -379,3 +379,4 @@
 @@||jquery.com^
 @@||poool.fr^
 @@||trafficmanager.net
+@@||lambda-url.eu-central-1.on.aws^

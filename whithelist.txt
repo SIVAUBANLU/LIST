@@ -689,3 +689,4 @@
 @@||login.france-ioi.org^
 @@||conours-alkindi.fr^
 @@||multimaths.net^
+@@||eduroam.org^

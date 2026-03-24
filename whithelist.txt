@@ -693,3 +693,4 @@
 @@||eduroam.app^
 @@||eduroam.com^
 @@||eduroam.lu^
+@@||bbc.co.uk^

@@ -694,3 +694,4 @@
 @@||eduroam.com^
 @@||eduroam.lu^
 @@||bbc.co.uk^
+@@||kids.britannica.com^

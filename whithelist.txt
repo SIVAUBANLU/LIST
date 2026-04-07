@@ -697,3 +697,5 @@
 @@||kids.britannica.com^
 @@||bbc.co.uk^
 @@||ceq.inspera.com^
+@@||svt.pages.ac-besancon.fr^
+@@||tube-sciences-technologies.apps.education.fr^

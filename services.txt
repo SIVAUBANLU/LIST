@@ -380,3 +380,7 @@
 @@||trafficmanager.net
 @@||lambda-url.eu-central-1.on.aws^
 @@||data.microsoft.com^
+@@||teams.microsoft.com^
+@@||pndsn.com^
+@@||graph.microsoft.com^
+@@||officeclient.microsoft.com^

@@ -699,3 +699,4 @@
 @@||ceq.inspera.com^
 @@||svt.pages.ac-besancon.fr^
 @@||tube-sciences-technologies.apps.education.fr^
+@@||theatre-classique.fr^

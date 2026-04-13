@@ -23,7 +23,6 @@
 @@||live.com^
 @@||live.net^
 @@||lync.com^
-@@||microsoft.com^
 @@||microsoftazuread-sso.com^
 @@||microsoftonline-p.net^
 @@||microsoftonline.com^
@@ -380,3 +379,4 @@
 @@||poool.fr^
 @@||trafficmanager.net
 @@||lambda-url.eu-central-1.on.aws^
+@@||data.microsoft.com^

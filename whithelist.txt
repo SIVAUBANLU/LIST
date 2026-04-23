@@ -706,3 +706,4 @@
 @@||mathalea.fr^
 @@||artsandculture.google.com^
 @@||wordwall.net^
+@@||essentiels.bnf.fr^

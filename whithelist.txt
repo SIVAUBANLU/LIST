@@ -712,3 +712,4 @@
 @@||londonmuseum.org.uk^
 @@||goethe.de^
 @@||shakespeare.org.uk^
+@@||shakespearesglobe.com^

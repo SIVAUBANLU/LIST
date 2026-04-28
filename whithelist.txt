@@ -711,3 +711,4 @@
 @@||deutsch.lingolia.com^
 @@||londonmuseum.org.uk^
 @@||goethe.de^
+@@||shakespeare.org.uk^

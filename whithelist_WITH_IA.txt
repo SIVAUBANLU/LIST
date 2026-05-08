@@ -723,3 +723,4 @@
 @@||bbc.com^
 @@||le-francais-efficace.fr^
 @@||microsoft.com^
+@@||apps.education.fr^

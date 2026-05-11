@@ -724,3 +724,4 @@
 @@||le-francais-efficace.fr^
 @@||pubhtml5.com^
 @@||apps.education.fr^
+@@||typingclub.com^

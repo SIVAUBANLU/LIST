@@ -728,3 +728,5 @@
 @@||iwm.org.uk^
 @@||bbc.co.uk^
 @@||frisechronos.fr^
+@@||granderegion.net^
+@@||eyes-on-europe.eu^

@@ -725,3 +725,5 @@
 @@||microsoft.com^
 @@||apps.education.fr^
 @@||bookwidgets.com^
+@@||iwm.org.uk^
+@@||bbc.co.uk^

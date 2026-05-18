@@ -727,3 +727,4 @@
 @@||bookwidgets.com^
 @@||iwm.org.uk^
 @@||bbc.co.uk^
+@@||frisechronos.fr^

@@ -342,7 +342,6 @@
 @@||canva-apps.com^
 @@||maesmanuels.fr^
 @@||duolingo.com^
-@@||amazonaws.com^
 @@||manuel-numerique.com^
 @@||clarity.ms^
 @@||tabuleo.fr^

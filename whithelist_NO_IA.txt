@@ -725,3 +725,4 @@
 @@||pubhtml5.com^
 @@||apps.education.fr^
 @@||typingclub.com^
+@@||world-geography-games.com^

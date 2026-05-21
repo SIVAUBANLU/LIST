@@ -726,3 +726,4 @@
 @@||apps.education.fr^
 @@||typingclub.com^
 @@||world-geography-games.com^
+@@||menzelphoto.com^

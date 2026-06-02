@@ -732,3 +732,16 @@
 @@||eyes-on-europe.eu^
 @@||world-geography-games.com^
 @@||parcoureo.fr^
+@@||dw.com^
+@@||chip.de^
+@@||europa.eu^
+@@||daad.de^
+@@||religionen-entdecken.de^
+@@||de.wikipedia.org^
+@@||spiegel.de^
+@@||fis.edu.hk^
+@@||luxembourg.public.lu^
+@@||lessentiel.lu^
+@@||letudiant.fr^
+@@||goethe.de^
+@@||talkao.com^

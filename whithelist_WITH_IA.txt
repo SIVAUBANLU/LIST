@@ -746,3 +746,6 @@
 @@||goethe.de^
 @@||talkao.com^
 @@||cyrano.education^
+@@||adjust.com^
+@@||adjust.io^
+@@||wilgo.ai^

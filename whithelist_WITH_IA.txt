@@ -749,3 +749,4 @@
 @@||adjust.com^
 @@||adjust.io^
 @@||wilgo.ai^
+@@||bellouguet.fr^

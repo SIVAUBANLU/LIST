@@ -729,3 +729,4 @@
 @@||menzelphoto.com^
 @@||cyrano.education^
 @@||bellouguet.fr^
+@@||*.pc-printer-discovery^

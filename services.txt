@@ -385,3 +385,5 @@
 @@||officeclient.microsoft.com^
 @@||*.pc-printer-discovery^
 @@||pagead2.googlesyndication.com^
+@@||storyblok.com^
+@@||b2clogin.com^

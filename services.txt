@@ -384,3 +384,4 @@
 @@||graph.microsoft.com^
 @@||officeclient.microsoft.com^
 @@||*.pc-printer-discovery^
+@@||pagead2.googlesyndication.com^

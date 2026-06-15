@@ -731,3 +731,4 @@
 @@||bellouguet.fr^
 @@||*.pc-printer-discovery^
 @@||theguardian.com^
+@@||edjoy.io^

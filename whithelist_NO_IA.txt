@@ -732,3 +732,4 @@
 @@||*.pc-printer-discovery^
 @@||theguardian.com^
 @@||edjoy.io^
+@@||hiphopbeat.de^

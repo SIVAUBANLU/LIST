@@ -752,3 +752,5 @@
 @@||bellouguet.fr^
 @@||ef.com^
 @@||edjoy.io^
+@@||allo3eme.fr^
+@@||fiche-de-revision.fr^

@@ -759,3 +759,4 @@
 @@||cantoo.fr^
 @@||ardmediathek.de^
 @@||quickdraw.withgoogle.com^
+@@||digipad.app^

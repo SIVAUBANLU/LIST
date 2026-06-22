@@ -760,3 +760,4 @@
 @@||ardmediathek.de^
 @@||quickdraw.withgoogle.com^
 @@||digipad.app^
+@@||netquiz.ccdmd.qc.ca^

@@ -741,3 +741,7 @@
 @@||cloudflareinsights.com^
 @@||framerusercontent.com^
 @@||crisp.chat^
+@@||axept.io^
+@@||stripe.com^
+@@||framerstatic.com^
+@@||typekit.net^

@@ -736,3 +736,8 @@
 @@||histographie.net^
 @@||cantoo.fr^
 @@||ardmediathek.de^
+@@||plume-app.co^
+@@||framer.com^
+@@||cloudflareinsights.com^
+@@||framerusercontent.com^
+@@||crisp.chat^

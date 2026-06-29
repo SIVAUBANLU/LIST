@@ -745,3 +745,5 @@
 @@||stripe.com^
 @@||framerstatic.com^
 @@||typekit.net^
+@@||elb.amazonaws.com^
+@@||beatstars.com^

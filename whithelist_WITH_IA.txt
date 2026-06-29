@@ -761,3 +761,5 @@
 @@||quickdraw.withgoogle.com^
 @@||digipad.app^
 @@||netquiz.ccdmd.qc.ca^
+@@||elb.amazonaws.com^
+@@||beatstars.com^

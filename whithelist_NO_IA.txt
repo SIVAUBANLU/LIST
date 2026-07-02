@@ -748,3 +748,4 @@
 @@||elb.amazonaws.com^
 @@||beatstars.com^
 @@||forge.apps.education.fr^
+@@||pedagogie.ac-montpellier.fr^

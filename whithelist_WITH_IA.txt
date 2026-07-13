@@ -764,3 +764,4 @@
 @@||elb.amazonaws.com^
 @@||beatstars.com^
 @@||forge.apps.education.fr^
+@@||video.edupole.net^

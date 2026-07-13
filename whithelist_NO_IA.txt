@@ -749,3 +749,4 @@
 @@||beatstars.com^
 @@||forge.apps.education.fr^
 @@||pedagogie.ac-montpellier.fr^
+@@||video.edupole.net^

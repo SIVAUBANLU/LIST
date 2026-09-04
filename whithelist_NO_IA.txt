@@ -751,3 +751,4 @@
 @@||pedagogie.ac-montpellier.fr^
 @@||video.edupole.net^
 @@||instrumenpoche.sesamath.net^
+@@||monclasseurdemaths.fr^

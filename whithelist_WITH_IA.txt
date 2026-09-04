@@ -766,3 +766,4 @@
 @@||forge.apps.education.fr^
 @@||video.edupole.net^
 @@||instrumenpoche.sesamath.net^
+@@||monclasseurdemaths.fr^

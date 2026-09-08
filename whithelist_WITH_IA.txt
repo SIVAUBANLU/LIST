@@ -767,3 +767,4 @@
 @@||video.edupole.net^
 @@||instrumenpoche.sesamath.net^
 @@||monclasseurdemaths.fr^
+@@||wims-paris-saclay.math.cnrs.fr^

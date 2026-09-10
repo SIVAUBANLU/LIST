@@ -769,3 +769,6 @@
 @@||monclasseurdemaths.fr^
 @@||wims-paris-saclay.math.cnrs.fr^
 @@||maupassant.free.fr^
+@@||educlever.io^
+@@||educlever.com^
+@@||eduplateforme.com^

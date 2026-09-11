@@ -756,3 +756,6 @@
 @@||educlever.io^
 @@||educlever.com^
 @@||eduplateforme.com^
+@@||scalingo.io^
+@@||d1arsjoskuvha9.cloudfront.net^
+@@||execute-api.eu-west-3.amazonaws.com^

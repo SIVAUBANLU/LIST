@@ -387,3 +387,9 @@
 @@||pagead2.googlesyndication.com^
 @@||storyblok.com^
 @@||b2clogin.com^
+@@||typicode.com^
+@@||pokeapi.co^
+@@||one.one^
+@@||icanhazip.com^
+@@||capgo.app^
+@@||scw.cloud^

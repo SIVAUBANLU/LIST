@@ -776,3 +776,4 @@
 @@||d1arsjoskuvha9.cloudfront.net^
 @@||execute-api.eu-west-3.amazonaws.com^
 @@||pix.fr^
+@@||lingolia.com^

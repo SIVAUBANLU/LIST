@@ -393,3 +393,6 @@
 @@||icanhazip.com^
 @@||capgo.app^
 @@||scw.cloud^
+@@||osc-secnum-fr1.scalingo-network.com^
+@@||s3.eu-west-1.amazonaws.com^
+@@||matomo.cloud^

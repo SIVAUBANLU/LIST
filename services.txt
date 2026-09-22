@@ -396,3 +396,6 @@
 @@||osc-secnum-fr1.scalingo-network.com^
 @@||s3.eu-west-1.amazonaws.com^
 @@||matomo.cloud^
+@@||approovr.io^
+@@||approoval.com^
+@@||iad-03.braze.com^

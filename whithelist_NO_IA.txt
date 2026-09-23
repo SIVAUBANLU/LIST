@@ -774,3 +774,4 @@
 @@||pccl.fr^
 @@||duckduckgo.com^
 @@||my.canva.site^
+@@||canvacode.com^

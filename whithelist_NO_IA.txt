@@ -773,3 +773,4 @@
 @@||w3.restena.lu^
 @@||pccl.fr^
 @@||duckduckgo.com^
+@@||my.canva.site^

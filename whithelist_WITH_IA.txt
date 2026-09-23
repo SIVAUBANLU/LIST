@@ -781,3 +781,4 @@
 @@||deutschelyrik.de^
 @@||w3.restena.lu^
 @@||pccl.fr^
+@@||duckduckgo.com^

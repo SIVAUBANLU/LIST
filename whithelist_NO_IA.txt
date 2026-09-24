@@ -775,3 +775,5 @@
 @@||duckduckgo.com^
 @@||my.canva.site^
 @@||canvacode.com^
+@@||github.io^
+@@||vercel.com^

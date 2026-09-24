@@ -777,3 +777,5 @@
 @@||canvacode.com^
 @@||github.io^
 @@||vercel.com^
+@@||taptouche.com^
+@@||edclub.com^

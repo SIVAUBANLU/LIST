@@ -782,3 +782,5 @@
 @@||w3.restena.lu^
 @@||pccl.fr^
 @@||duckduckgo.com^
+@@||taptouche.com^
+@@||edclub.com^

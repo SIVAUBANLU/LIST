@@ -779,3 +779,5 @@
 @@||vercel.com^
 @@||taptouche.com^
 @@||edclub.com^
+@@||vercel.app^
+@@||aefetour.com^

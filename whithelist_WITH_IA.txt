@@ -786,3 +786,6 @@
 @@||edclub.com^
 @@||vercel.app^
 @@||aefetour.com^
+@@||netquiz.ccdmd.qc.ca^
+@@||lingolia.com^
+@@||quizz.biz^

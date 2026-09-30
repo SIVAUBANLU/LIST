@@ -399,3 +399,6 @@
 @@||approovr.io^
 @@||approoval.com^
 @@||iad-03.braze.com^
+@@||via.batch.com^
+@@||boot.pbstck.com^
+@@||g.doubleclick.net^

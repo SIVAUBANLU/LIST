@@ -790,3 +790,4 @@
 @@||lingolia.com^
 @@||quizz.biz^
 @@||cbsnews.com^
+@@||gerstenberg-verlag.de^

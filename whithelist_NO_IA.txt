@@ -791,3 +791,4 @@
 @@||ined.fr^
 @@||physiquechimie-voinot.fr^
 @@||gapminder.org^
+@@||openstreetmap.org^

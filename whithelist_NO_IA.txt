@@ -348,8 +348,6 @@
 @@||schmitz-nittenwilm.de^
 @@||schreiben-und-leben.de^
 @@||sciences.colleges.free.fr^
-@@||scratch.mit.edu^
-@@||scratchjr.org^
 @@||sdgstorybook.com^
 @@||ses.ac-versailles.fr^
 @@||sharepoint.com^

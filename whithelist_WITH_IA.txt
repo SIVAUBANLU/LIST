@@ -791,3 +791,4 @@
 @@||cbsnews.com^
 @@||gerstenberg-verlag.de^
 @@||web.arbeitsagentur.de^
+@@||openstreetmap.org^

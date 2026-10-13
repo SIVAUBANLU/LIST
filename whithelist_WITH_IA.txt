@@ -792,3 +792,5 @@
 @@||gerstenberg-verlag.de^
 @@||web.arbeitsagentur.de^
 @@||openstreetmap.org^
+@@||another-day.com^
+@@||edition.cnn.com^

@@ -794,3 +794,4 @@
 @@||openstreetmap.org^
 @@||another-day.com^
 @@||edition.cnn.com^
+@@||edubelin.fr

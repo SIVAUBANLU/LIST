@@ -789,5 +789,6 @@
 @@||ined.fr^
 @@||physiquechimie-voinot.fr^
 @@||gapminder.org^
+@@||edubelin.fr
 @@||openstreetmap.org^
 @@||sacado.fr^

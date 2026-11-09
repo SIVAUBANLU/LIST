@@ -793,3 +793,4 @@
 @@||edubelin.fr
 @@||openstreetmap.org^
 @@||sacado.fr^
+@@||essentiels.bnf.fr^

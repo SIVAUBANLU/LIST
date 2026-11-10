@@ -794,3 +794,5 @@
 @@||openstreetmap.org^
 @@||sacado.fr^
 @@||essentiels.bnf.fr^
+@@||berlin.de^
+@@||visitberlin.de^

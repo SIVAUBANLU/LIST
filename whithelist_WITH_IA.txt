@@ -797,3 +797,5 @@
 @@||edition.cnn.com^
 @@||edubelin.fr^
 @@||pccl.fr^
+@@||berlin.de^
+@@||visitberlin.de^
